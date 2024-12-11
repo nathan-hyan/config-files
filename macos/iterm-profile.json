@@ -253,7 +253,7 @@
     "Blue Component" : 0.21176470588235294,
     "Green Component" : 0.16862745098039217
   },
-  "Name" : "Default",
+  "Name" : "Hy-An",
   "Ansi 11 Color (Dark)" : {
     "Red Component" : 0.396078431372549,
     "Color Space" : "sRGB",
@@ -453,7 +453,38 @@
     "Green Component" : 0.90980392156862744
   },
   "Keyboard Map" : {
-
+    "0xf728-0x0" : {
+      "Action" : 11,
+      "Text" : "0x4"
+    },
+    "0xf702-0x280000" : {
+      "Action" : 10,
+      "Text" : "b"
+    },
+    "0xf702-0x300000" : {
+      "Action" : 11,
+      "Text" : "0x1"
+    },
+    "0xf703-0x280000" : {
+      "Action" : 10,
+      "Text" : "f"
+    },
+    "0xf728-0x80000" : {
+      "Action" : 10,
+      "Text" : "d"
+    },
+    "0x7f-0x100000" : {
+      "Action" : 11,
+      "Text" : "0x15"
+    },
+    "0xf703-0x300000" : {
+      "Action" : 11,
+      "Text" : "0x5"
+    },
+    "0x7f-0x80000" : {
+      "Action" : 11,
+      "Text" : "\"0x1b 0x7f\""
+    }
   },
   "Bold Color (Dark)" : {
     "Red Component" : 0.57647058823529407,
