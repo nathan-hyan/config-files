@@ -61,6 +61,12 @@ So, copy the contents of the `.zshrc` files into `~/.zshrc` replacing everything
 
 In this repo there's a `iterm-profile.json` file that you need to download and apply it into iTerm2. This contains the colors, transparency settings and font settings (*In this case, MesloLGS NF for compatibility with Powerlevel10k*)
 
+## More apps outside of Homebrew
+
+There are some apps that cannot be installed with Homebrew, so let's install them manually.
+
+**Cider**: https://cidercollective.itch.io/cider
+
 ## App configs recommendations
 
 1. Disable **"Mouse Acceleration"** in `Apple Logo > System Settings... > Mouse > Advanced > Pointer acceleration` 
