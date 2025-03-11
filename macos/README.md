@@ -29,8 +29,9 @@ Formulae ([Link to file](https://github.com/nathan-hyan/config-files/blob/main/m
 
 If there are any new casks or formulae that needs to be added to the list, first find it with the following command in the terminal:
 
-    brew list
-Homebrew will display the list of both casks and formulae, then you can copy and add them to the corresponding files linked above.
+    ./export_brew_packages.sh
+
+This script will export the list of installed casks and formulae to a file called `brew_packages.txt`.
 
 
 ## Oh My Zsh!
